@@ -8,4 +8,4 @@ cordova插件实现百度推送
 
 #License
 
->Usage is provided under the MIT License. See LICENSE for the full details.
+>Usage is provided under the [MIT License](http://opensource.org/licenses/mit-license.php). See LICENSE for the full details.
