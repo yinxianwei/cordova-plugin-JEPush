@@ -1,7 +1,7 @@
 # cordova-plugin-JEPush
-cordova插件实现百度推送
+cordova插件实现百度推送(iOS)
 
->基于cordova的项目要添加推送功能，要使用第三方`百度推送`的支持，插件实现了改功能。
+>基于cordova的项目添加推送功能，使用第三方`百度推送`的支持。
 
 
 >部分代码来自：[https://github.com/phonegap-build/PushPlugin](https://github.com/phonegap-build/PushPlugin) 
