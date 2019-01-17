@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-JEPush",
   "version": "0.0.1",
-  "description": "Cordova mw baidu push”,
+  "description": "Cordova mw baidu push",
   "cordova": {
     "id": "cordova-plugin-JEPush",
     "platforms": [
